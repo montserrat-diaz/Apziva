@@ -1,2 +1,0 @@
-# Apziva
-Projects from Apziva
